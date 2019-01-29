@@ -1,0 +1,28 @@
+{
+  "name": "learn-rxjs",
+  "version": "1.0.0",
+  "description": "Here's just a small sandbox I created for myself to play around with RxJS concepts",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewThian/learn-rxjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewThian/learn-rxjs/issues"
+  },
+  "homepage": "https://github.com/AndrewThian/learn-rxjs#readme",
+  "dependencies": {
+    "rxjs": "^6.3.3",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.2.4",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
